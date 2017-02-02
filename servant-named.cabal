@@ -2,7 +2,7 @@ name:                servant-named
 version:             0.1.0.0
 synopsis:            Add named endpoints to servant
 description:         Please see README.md
-homepage:            https://github.com/bemweitzman/servant-named#readme
+homepage:            https://github.com/benweitzman/servant-named#readme
 license:             BSD3
 license-file:        LICENSE
 author:              Ben WEitzman
